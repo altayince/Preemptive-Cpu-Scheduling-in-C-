@@ -14,9 +14,9 @@ HOW TO COMPILE
 
 This scheduler is tested on Ubuntu 16.04 using g++ version 5.5.0 and C++11. C++11 is mandatory to be able compile the source code. To compile it simply use the following command : 
 ```
-"g++ main.cpp"
+g++ main.cpp
 ```
-Keep in mind that main.cpp, process.h.
+Keep in mind that main.cpp, process.h should be in the same directory.
 
 HOW TO EXECUTE
 
