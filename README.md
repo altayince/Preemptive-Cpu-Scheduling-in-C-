@@ -12,11 +12,17 @@ Information in definition.txt is collected, processes and instructions are creat
 
 HOW TO COMPILE
 
-This scheduler is tested on Ubuntu 16.04 using g++ version 5.5.0 and C++11. C++11 is mandatory to be able compile the source code. To compile it simply use the following command : "g++ main.cpp" .
+This scheduler is tested on Ubuntu 16.04 using g++ version 5.5.0 and C++11. C++11 is mandatory to be able compile the source code. To compile it simply use the following command : 
+```
+"g++ main.cpp"
+```
 Keep in mind that main.cpp, process.h.
 
 HOW TO EXECUTE
 
-To execute it use the following command : “./a.out” .
+To execute it use the following command : 
+```
+./a.out
+```
 Again keep in mind that a.out, definition.txt and code files should be in the same directory. Output.txt is also created in the same directory.
 
