@@ -9,7 +9,6 @@
 
 
 /*
- *  Stolen from CMPE250 templates.
  *  Will be used as parser.
  */
 template <class Container>
